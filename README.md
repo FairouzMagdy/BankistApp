@@ -1,5 +1,5 @@
 # Minimalist Banking Application
-The bank app is a simple online one-page application that offers the essential features needed for managing one's finances. The user can log in, view their balance and deposits/withdrawals, transfer money to someone else, or request a loan.
+Bankist Application is a one-page online platform designed to empower users in managing their finances effectively. With Bankist, users can effortlessly log in, access their account balance, review their transaction history, transfer funds to other users, apply for loans, and even close their accounts hassle-free.
 
 ![site](https://github.com/FairouzMagdy/BankistApp/assets/91697747/2e422fc8-76c9-47c5-8cc8-9ccfa45c3340)
 
