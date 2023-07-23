@@ -15,5 +15,5 @@ The bank app is a simple online one-page application that offers the essential f
 
 5- A timer is implemented to track the inactivity of the user that will log the user out after a certain time.
 
-
+--> Copyrights: HTML & CSS are developed by Jonas Shmedtmann.
 
